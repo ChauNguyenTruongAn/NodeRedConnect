@@ -1,0 +1,17 @@
+D:\MQTT\NodeRedConnect\NodeRed\bin\Debug\net8.0\NodeRed.exe
+D:\MQTT\NodeRedConnect\NodeRed\bin\Debug\net8.0\NodeRed.deps.json
+D:\MQTT\NodeRedConnect\NodeRed\bin\Debug\net8.0\NodeRed.runtimeconfig.json
+D:\MQTT\NodeRedConnect\NodeRed\bin\Debug\net8.0\NodeRed.dll
+D:\MQTT\NodeRedConnect\NodeRed\bin\Debug\net8.0\NodeRed.pdb
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.GeneratedMSBuildEditorConfig.editorconfig
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.AssemblyInfoInputs.cache
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.AssemblyInfo.cs
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.csproj.CoreCompileInputs.cache
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.dll
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\refint\NodeRed.dll
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.pdb
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.genruntimeconfig.cache
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\ref\NodeRed.dll
+D:\MQTT\NodeRedConnect\NodeRed\bin\Debug\net8.0\CommunityToolkit.Mvvm.dll
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.csproj.AssemblyReference.cache
+D:\MQTT\NodeRedConnect\NodeRed\obj\Debug\net8.0\NodeRed.csproj.Up2Date
